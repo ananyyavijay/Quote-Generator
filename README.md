@@ -26,9 +26,15 @@ A simple web-based Quote Generator that fetches and displays a random inspiratio
   "author": "Steve Jobs"
 }
 
+---
+
 You can extract:
+
 quote → the main quote text
+
 author → the person who said it
+
+---
 
 🛠️ Tech Stack
 
