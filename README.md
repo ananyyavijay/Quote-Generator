@@ -26,7 +26,6 @@ A simple web-based Quote Generator that fetches and displays a random inspiratio
   "author": "Steve Jobs"
 }
 
----
 
 You can extract:
 
