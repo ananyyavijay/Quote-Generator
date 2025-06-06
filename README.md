@@ -31,23 +31,17 @@ quote → the main quote text
 author → the person who said it
 
 🛠️ Tech Stack
+
 HTML
 
 CSS
 
 JavaScript (Fetch API)
 
-📂 File Structure
-bash
-Copy
-Edit
-/quote-generator
-│
-├── index.html         # Main HTML file
-├── style.css          # Styling
-└── script.js          # Fetch and display quote logic
 ---
+
 🧠 How to Use
+
 Clone this repo or download the files
 
 Open index.html in your browser
